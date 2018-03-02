@@ -1,13 +1,14 @@
 # Spring Reference Docset
 
-## About
+## Downloads
 
 Spring projects dash docsets.
 
 * Spring Boot
-	* [1.5.10.RELEASE](https://github.com/swim2sun/spring-reference-docset/releases/tag/spring-boot-1.5.10)
+	* [2.0.0.RELEASE](https://github.com/swim2sun/spring-reference-docset/releases/download/spring-boot-2.0.0.RELEASE/springboot.docset.zip)
+	* [1.5.10.RELEASE](https://github.com/swim2sun/spring-reference-docset/releases/download/spring-boot-1.5.10/springboot.docset.zip)
 * Spring Framework
-	* [4.3.14.RELEASE](https://github.com/swim2sun/spring-reference-docset/releases/tag/spring-framework-4.3.14)
+	* [4.3.14.RELEASE](https://github.com/swim2sun/spring-reference-docset/releases/download/spring-framework-4.3.14/springframework.docset.zip)
 	
 ## Screenshot
 
